@@ -1,3 +1,3 @@
 # Dancing Particles 
 
-Geometrical dancing particles.
+Simple HTML5 + JS motion animation. Geometrical dancing particles.

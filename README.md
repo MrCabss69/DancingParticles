@@ -1,2 +1,3 @@
-# DancingParticles
-Geometrical dancing particles
+# Dancing Particles 
+
+Geometrical dancing particles.
